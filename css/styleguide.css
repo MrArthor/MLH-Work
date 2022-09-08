@@ -23,9 +23,9 @@
 
   --font-size-96px: 96px;
   --font-size-l: 64px;
-  --font-size-m: 48px;
+  --font-size-m: 44px;
   --font-size-s: 40px;
-  --font-size-xs: 36px;
+  --font-size-xs: 32px;
   --font-size-xxs: 32px;
   --font-size-xxxs: 24px;
   --font-size-xxxxs: 14px;
@@ -504,7 +504,7 @@
 .satoshi-black-white-20px {
   color: var(--white);
   font-family: var(--font-family-satoshi-black);
-  font-size: 20px;
+  font-size: 19px;
   font-style: normal;
   font-weight: 900;
 }
