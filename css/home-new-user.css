@@ -28,6 +28,7 @@
   left: 0px;
   mix-blend-mode: normal;
   position: absolute;
+
   top: 0px;
   width: 1366px;
 }
@@ -47,7 +48,7 @@
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -61,7 +62,7 @@
   cursor: pointer;
   height: auto;
   left: 337px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -74,7 +75,7 @@
   background-color: transparent;
   height: auto;
   left: 489px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -88,7 +89,7 @@
   cursor: pointer;
   height: auto;
   left: 1282px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -103,7 +104,7 @@
   cursor: pointer;
   height: auto;
   left: 1178px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -118,7 +119,7 @@
   cursor: pointer;
   height: auto;
   left: 631px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -132,7 +133,7 @@
   cursor: pointer;
   height: auto;
   left: 744px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -146,7 +147,7 @@
   display: block;
   height: auto;
   left: 115px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   opacity: 0;
@@ -159,26 +160,28 @@
 }
 
 .home-new-user .why-is-this-a-need-of-the-hour-e5odRH.animate-enter15 {
-  animation: animate-enter15-frames 3.00s ease-in-out 5.00s 1 normal forwards;
+  animation: animate-enter15-frames 3s ease-in-out 5s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter15-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user .want-to-know-more-e5odRH {
   background-color: transparent;
   height: auto;
   left: 56px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   position: absolute;
@@ -235,7 +238,11 @@ transform: translate(0,0);
 }
 
 .home-new-user .blog-shade-xDNpAE {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -251,7 +258,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -291,7 +298,11 @@ transform: translate(0,0);
 }
 
 .home-new-user .blog-shade-uVxhdE {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -307,7 +318,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -347,7 +358,11 @@ transform: translate(0,0);
 }
 
 .home-new-user .blog-shade-1k2uod {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -363,7 +378,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -403,7 +418,11 @@ transform: translate(0,0);
 }
 
 .home-new-user .blog-shade-Nulejk {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -419,7 +438,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -459,7 +478,11 @@ transform: translate(0,0);
 }
 
 .home-new-user .blog-shade-YJTIGE {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -475,7 +498,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -515,7 +538,11 @@ transform: translate(0,0);
 }
 
 .home-new-user .blog-shade-8iha65 {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -531,7 +558,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -566,7 +593,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 503px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   position: absolute;
@@ -736,6 +763,7 @@ transform: translate(0,0);
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
+
   width: 437px;
 }
 
@@ -784,10 +812,10 @@ transform: translate(0,0);
 
 .home-new-user .lets-explore-xnxuTy {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
-  margin-bottom: -6.50px;
-  margin-top: -8.50px;
+  margin-bottom: -6.5px;
+  margin-top: -8.5px;
   min-width: 273px;
   mix-blend-mode: normal;
   position: relative;
@@ -992,7 +1020,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 165px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -1020,7 +1048,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1034,7 +1062,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1048,7 +1076,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1062,7 +1090,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1076,7 +1104,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1090,7 +1118,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 978px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1104,7 +1132,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1118,7 +1146,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 775px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1132,7 +1160,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1197,26 +1225,28 @@ transform: translate(0,0);
 }
 
 .home-new-user .slide-text-1-e5odRH.animate-enter16 {
-  animation: animate-enter16-frames 0.20s ease-in-out 0.00s 1 normal forwards;
+  animation: animate-enter16-frames 0.2s ease-in-out 0s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter16-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user .auto-2-KMM07c {
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 100px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1241,7 +1271,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 100px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1266,7 +1296,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 100px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1291,7 +1321,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 100px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1299,4 +1329,7 @@ transform: translate(0,0);
   top: 99px;
   white-space: nowrap;
   width: auto;
+}
+.even {
+  margin-left: 500px;
 }
