@@ -15,7 +15,7 @@
   background-color: transparent;
   height: auto;
   left: 894px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -28,7 +28,7 @@
   background-color: transparent;
   height: auto;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -59,7 +59,11 @@
 }
 
 .blog .rectangle-20-xcDCTl {
-  background: linear-gradient(180deg, rgba(244.37497973442078, 225.70744782686234, 202.62759268283844, 0) 0%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(244.37497973442078, 225.70744782686234, 202.62759268283844, 0) 0%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -75,7 +79,7 @@
   background-color: transparent;
   height: auto;
   left: 47px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -88,7 +92,7 @@
   background-color: transparent;
   height: auto;
   left: 47px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   mix-blend-mode: normal;
   position: absolute;
@@ -164,7 +168,7 @@
   background-color: transparent;
   height: auto;
   left: 108px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -221,7 +225,7 @@
   background-color: transparent;
   height: auto;
   left: 108px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -278,7 +282,7 @@
   background-color: transparent;
   height: auto;
   left: 108px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -335,7 +339,7 @@
   background-color: transparent;
   height: auto;
   left: 108px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -392,7 +396,7 @@
   background-color: transparent;
   height: auto;
   left: 108px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -449,7 +453,7 @@
   background-color: transparent;
   height: auto;
   left: 108px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -505,7 +509,7 @@
   background-color: transparent;
   height: auto;
   left: 165px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -533,7 +537,7 @@
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -547,7 +551,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -561,7 +565,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -575,7 +579,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -589,7 +593,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -603,7 +607,7 @@
   background-color: transparent;
   height: auto;
   left: 978px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -617,7 +621,7 @@
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -631,7 +635,7 @@
   background-color: transparent;
   height: auto;
   left: 775px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -645,7 +649,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -831,7 +835,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1366px;
+  width: 1600px;
 }
 
 .blog .logo-j6tfpY {
@@ -850,7 +854,7 @@
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -864,7 +868,7 @@
   cursor: pointer;
   height: auto;
   left: 337px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -877,7 +881,7 @@
   background-color: transparent;
   height: auto;
   left: 489px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -891,7 +895,7 @@
   cursor: pointer;
   height: auto;
   left: 1282px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -906,7 +910,7 @@
   cursor: pointer;
   height: auto;
   left: 1178px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -920,7 +924,7 @@
   background-color: transparent;
   height: auto;
   left: 631px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -934,7 +938,7 @@
   cursor: pointer;
   height: auto;
   left: 744px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
