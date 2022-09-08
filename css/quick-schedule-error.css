@@ -8,7 +8,7 @@
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1366px;
+  width: 1500px;
 }
 
 #overlay-quick-schedule-error {
@@ -51,7 +51,7 @@
   font-weight: 700;
   height: auto;
   left: 112px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   position: absolute;
@@ -82,10 +82,10 @@
 
 .quick-schedule-error .add-device-Zd1WDr {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
-  margin-bottom: -12.00px;
-  margin-top: -14.00px;
+  margin-bottom: -12px;
+  margin-top: -14px;
   min-width: 227px;
   mix-blend-mode: normal;
   position: relative;

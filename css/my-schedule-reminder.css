@@ -8,7 +8,7 @@
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-schedule-reminder .union-IRVK6P {
@@ -37,7 +37,7 @@
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -51,7 +51,7 @@
   cursor: pointer;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -65,7 +65,7 @@
   cursor: pointer;
   height: auto;
   left: 505px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -99,7 +99,7 @@
   background-color: transparent;
   height: auto;
   left: 82px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -112,7 +112,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -126,7 +126,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -139,7 +139,7 @@
   background-color: transparent;
   height: auto;
   left: 692px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -152,7 +152,7 @@
   background-color: transparent;
   height: auto;
   left: 607px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -165,7 +165,7 @@
   background-color: transparent;
   height: auto;
   left: 607px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -183,7 +183,7 @@
   font-weight: 500;
   height: auto;
   left: 607px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 17px;
   mix-blend-mode: normal;
   position: absolute;
@@ -211,7 +211,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -255,7 +255,11 @@
 }
 
 .my-schedule-reminder .rectangle-20-NtxVSQ {
-  background: linear-gradient(180deg, rgba(244.37497973442078, 225.70744782686234, 202.62759268283844, 0) 0%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(244.37497973442078, 225.70744782686234, 202.62759268283844, 0) 0%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -271,7 +275,7 @@
   background-color: transparent;
   height: auto;
   left: 47px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -284,7 +288,7 @@
   background-color: transparent;
   height: auto;
   left: 47px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   mix-blend-mode: normal;
   position: absolute;
@@ -330,7 +334,7 @@
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 900;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   min-width: 118px;
   mix-blend-mode: normal;
@@ -345,7 +349,7 @@
   left: 0px;
   position: absolute;
   top: 2228px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-schedule-reminder .rectangle-4-hCF6KI {
@@ -357,7 +361,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-schedule-reminder .logo-hCF6KI {
@@ -375,7 +379,7 @@
   background-color: transparent;
   height: auto;
   left: 165px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -403,7 +407,7 @@
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -417,7 +421,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -431,7 +435,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -445,7 +449,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -459,7 +463,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -473,7 +477,7 @@
   background-color: transparent;
   height: auto;
   left: 978px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -487,7 +491,7 @@
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -501,7 +505,7 @@
   background-color: transparent;
   height: auto;
   left: 775px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -515,7 +519,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -579,7 +583,7 @@
 }
 
 .my-schedule-reminder .component-1-IRVK6P:hover {
-  background-color: #fc6e00
+  background-color: #fc6e00;
 }
 
 .my-schedule-reminder .box-a6nnOH {
@@ -620,7 +624,7 @@
 }
 
 .my-schedule-reminder .component-2-IRVK6P:hover {
-  background-color: #FC6E00
+  background-color: #fc6e00;
 }
 
 .my-schedule-reminder .box-jcj7jD {
@@ -652,7 +656,7 @@
   cursor: pointer;
   height: auto;
   left: 92px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -666,7 +670,7 @@
   cursor: pointer;
   height: auto;
   left: 97px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -680,7 +684,7 @@
   cursor: pointer;
   height: auto;
   left: 124px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -694,7 +698,7 @@
   cursor: pointer;
   height: auto;
   left: 97px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -707,7 +711,7 @@
   background-color: transparent;
   height: auto;
   left: 94px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;

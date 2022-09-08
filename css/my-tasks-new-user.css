@@ -8,7 +8,7 @@
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-tasks-new-user .union-lD8tiz {
@@ -37,7 +37,7 @@
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -51,7 +51,7 @@
   cursor: pointer;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -65,7 +65,7 @@
   cursor: pointer;
   height: auto;
   left: 505px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -99,7 +99,7 @@
   background-color: transparent;
   height: auto;
   left: 120px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -112,7 +112,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -146,7 +146,17 @@
 }
 
 .my-tasks-new-user .rectangle-28-dqiVNm {
-  background: linear-gradient(180deg, rgba(248.0000004172325, 162.00002074241638, 54.99999672174454, 0.15000000596046448) 0%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(
+        248.0000004172325,
+        162.00002074241638,
+        54.99999672174454,
+        0.15000000596046448
+      )
+      0%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 30px;
@@ -163,7 +173,7 @@
   background-color: transparent;
   height: auto;
   left: 57px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 50px;
   mix-blend-mode: normal;
   position: absolute;
@@ -195,7 +205,17 @@
 }
 
 .my-tasks-new-user .rectangle-28-5R0OZ2 {
-  background: linear-gradient(180deg, rgba(54.18750151991844, 144.49999898672104, 141.76324903964996, 0.05999999865889549) 0%, rgb(54.18750151991844, 144.49999898672104, 141.76324903964996) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(
+        54.18750151991844,
+        144.49999898672104,
+        141.76324903964996,
+        0.05999999865889549
+      )
+      0%,
+    rgb(54.18750151991844, 144.49999898672104, 141.76324903964996) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 30px;
@@ -217,7 +237,7 @@
   font-weight: 900;
   height: auto;
   left: 57px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 50px;
   mix-blend-mode: normal;
   position: absolute;
@@ -249,7 +269,17 @@
 }
 
 .my-tasks-new-user .rectangle-28-RN1t2O {
-  background: linear-gradient(180deg, rgba(242.24999696016312, 177.13821083307266, 11.103125810623169, 0.05999999865889549) 0%, rgb(242.24999696016312, 177.13821083307266, 11.103125810623169) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(
+        242.24999696016312,
+        177.13821083307266,
+        11.103125810623169,
+        0.05999999865889549
+      )
+      0%,
+    rgb(242.24999696016312, 177.13821083307266, 11.103125810623169) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 30px;
@@ -271,7 +301,7 @@
   font-weight: 900;
   height: auto;
   left: 57px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 50px;
   mix-blend-mode: normal;
   position: absolute;
@@ -320,7 +350,7 @@
   left: 0px;
   position: absolute;
   top: 1780px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-tasks-new-user .rectangle-4-6TPRda {
@@ -332,7 +362,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-tasks-new-user .logo-6TPRda {
@@ -350,7 +380,7 @@
   background-color: transparent;
   height: auto;
   left: 165px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -378,7 +408,7 @@
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -392,7 +422,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -406,7 +436,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -420,7 +450,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -434,7 +464,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -448,7 +478,7 @@
   background-color: transparent;
   height: auto;
   left: 978px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -462,7 +492,7 @@
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -476,7 +506,7 @@
   background-color: transparent;
   height: auto;
   left: 775px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -490,7 +520,7 @@
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -545,7 +575,7 @@
   cursor: pointer;
   height: auto;
   left: 80px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -559,7 +589,7 @@
   cursor: pointer;
   height: auto;
   left: 76px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -573,7 +603,7 @@
   cursor: pointer;
   height: auto;
   left: 93px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -587,7 +617,7 @@
   cursor: pointer;
   height: auto;
   left: 98px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -600,7 +630,7 @@
   background-color: transparent;
   height: auto;
   left: 95px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;

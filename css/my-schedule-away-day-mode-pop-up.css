@@ -8,7 +8,7 @@
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1366px;
+  width: 1500px;
 }
 
 #overlay-my-schedule-away-day-mode-pop-up {
@@ -24,11 +24,11 @@
   border: 1px none;
   border-radius: 20px;
   height: 218px;
-  left: calc(50vw - 214.0px);
+  left: calc(50vw - 214px);
   mix-blend-mode: normal;
   overflow: hidden;
   position: relative;
-  top: calc(50vh - 109.0px);
+  top: calc(50vh - 109px);
   width: 428px;
 }
 
@@ -51,10 +51,10 @@
 
 .my-schedule-away-day-mode-pop-up .get-started-lI4K8x {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
-  margin-bottom: -12.00px;
-  margin-top: -14.00px;
+  margin-bottom: -12px;
+  margin-top: -14px;
   min-width: 267px;
   mix-blend-mode: normal;
   position: relative;
@@ -80,12 +80,12 @@
 
 .my-schedule-away-day-mode-pop-up .get-started-uT4qdf {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
-  margin-bottom: -12.00px;
-  margin-left: -13.50px;
-  margin-right: -13.50px;
-  margin-top: -14.00px;
+  margin-bottom: -12px;
+  margin-left: -13.5px;
+  margin-right: -13.5px;
+  margin-top: -14px;
   min-width: 352px;
   mix-blend-mode: normal;
   position: relative;

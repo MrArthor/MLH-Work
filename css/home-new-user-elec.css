@@ -8,7 +8,7 @@
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1366px;
+  width: 1500px;
 }
 
 .home-new-user-elec .auto-carousel-zxIA4J {
@@ -17,7 +17,7 @@
   left: 0px;
   position: absolute;
   top: 0px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .home-new-user-elec .rectangle-1-zxIA4J {
@@ -29,7 +29,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .home-new-user-elec .why-is-this-a-need-of-the-hour-zxIA4J {
@@ -37,7 +37,7 @@
   display: block;
   height: auto;
   left: 115px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   opacity: 0;
@@ -50,26 +50,28 @@
 }
 
 .home-new-user-elec .why-is-this-a-need-of-the-hour-zxIA4J.animate-enter10 {
-  animation: animate-enter10-frames 3.00s ease-in-out 5.00s 1 normal forwards;
+  animation: animate-enter10-frames 3s ease-in-out 5s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter10-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user-elec .want-to-know-more-zxIA4J {
   background-color: transparent;
   height: auto;
   left: 56px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   position: absolute;
@@ -95,7 +97,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 503px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   position: absolute;
@@ -110,7 +112,7 @@ transform: translate(0,0);
   display: block;
   height: auto;
   left: 52px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   opacity: 0;
@@ -123,19 +125,21 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .quick-scheduling-rsciHE.animate-enter11 {
-  animation: animate-enter11-frames 1.00s ease-in 1.00s 1 normal forwards;
+  animation: animate-enter11-frames 1s ease-in 1s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter11-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user-elec .energy-excess-alert-rsciHE {
@@ -143,7 +147,7 @@ transform: translate(0,0);
   display: block;
   height: auto;
   left: 561px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   opacity: 0;
@@ -156,19 +160,21 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .energy-excess-alert-rsciHE.animate-enter12 {
-  animation: animate-enter12-frames 1.00s ease-in 1.00s 1 normal forwards;
+  animation: animate-enter12-frames 1s ease-in 1s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter12-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user-elec .usage-suggestions-rsciHE {
@@ -176,7 +182,7 @@ transform: translate(0,0);
   display: block;
   height: auto;
   left: 50px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   opacity: 0;
@@ -189,19 +195,21 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .usage-suggestions-rsciHE.animate-enter13 {
-  animation: animate-enter13-frames 1.00s ease-in 1.00s 1 normal forwards;
+  animation: animate-enter13-frames 1s ease-in 1s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter13-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user-elec .migrate-tasks-rsciHE {
@@ -209,7 +217,7 @@ transform: translate(0,0);
   display: block;
   height: auto;
   left: 542px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 80px;
   mix-blend-mode: normal;
   opacity: 0;
@@ -222,19 +230,21 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .migrate-tasks-rsciHE.animate-enter14 {
-  animation: animate-enter14-frames 1.00s ease-in 1.00s 1 normal forwards;
+  animation: animate-enter14-frames 1s ease-in 1s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
 @keyframes animate-enter14-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
+  from {
+    opacity: 0;
+    transform: translate(0, 25px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
 }
 
 .home-new-user-elec .section1-rsciHE {
@@ -445,10 +455,10 @@ transform: translate(0,0);
 
 .home-new-user-elec .lets-explore-amFSZB {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
-  margin-bottom: -6.50px;
-  margin-top: -8.50px;
+  margin-bottom: -6.5px;
+  margin-top: -8.5px;
   min-width: 273px;
   mix-blend-mode: normal;
   position: relative;
@@ -623,7 +633,7 @@ transform: translate(0,0);
   left: 0px;
   position: absolute;
   top: 4118px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .home-new-user-elec .rectangle-4-BPxmpI {
@@ -635,7 +645,7 @@ transform: translate(0,0);
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .home-new-user-elec .logo-BPxmpI {
@@ -653,7 +663,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 165px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -681,7 +691,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -695,7 +705,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -709,7 +719,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -723,7 +733,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -737,7 +747,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -751,7 +761,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 978px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -765,7 +775,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 782px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -779,7 +789,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 775px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -793,7 +803,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 1034px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -890,7 +900,11 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .blog-shade-FB4AVx {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -906,7 +920,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -946,7 +960,11 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .blog-shade-oafSqi {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -962,7 +980,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1002,7 +1020,11 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .blog-shade-OsWFDE {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -1018,7 +1040,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1058,7 +1080,11 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .blog-shade-UJQFcE {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -1074,7 +1100,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1114,7 +1140,11 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .blog-shade-jieI4M {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -1130,7 +1160,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1170,7 +1200,11 @@ transform: translate(0,0);
 }
 
 .home-new-user-elec .blog-shade-nZRKiE {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 27.967047691345215%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 27.967047691345215%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -1186,7 +1220,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 24px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -1220,7 +1254,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -1234,7 +1268,7 @@ transform: translate(0,0);
   cursor: pointer;
   height: auto;
   left: 337px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: fixed;
@@ -1247,7 +1281,7 @@ transform: translate(0,0);
   background-color: transparent;
   height: auto;
   left: 489px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: fixed;
@@ -1261,7 +1295,7 @@ transform: translate(0,0);
   cursor: pointer;
   height: auto;
   left: 1282px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: fixed;
@@ -1276,7 +1310,7 @@ transform: translate(0,0);
   cursor: pointer;
   height: auto;
   left: 1178px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: fixed;
@@ -1291,7 +1325,7 @@ transform: translate(0,0);
   cursor: pointer;
   height: auto;
   left: 631px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: fixed;
@@ -1305,7 +1339,7 @@ transform: translate(0,0);
   cursor: pointer;
   height: auto;
   left: 744px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: fixed;

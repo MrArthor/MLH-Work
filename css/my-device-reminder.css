@@ -6,7 +6,7 @@
   height: 100vh;
   margin: 0px;
   min-height: 2649px;
-  min-width: 1366px;
+  min-width: 1500px;
   mix-blend-mode: normal;
   overflow: hidden;
   overflow-x: hidden;
@@ -39,7 +39,7 @@
   background-color: transparent;
   height: 100%;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -52,7 +52,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -65,7 +65,7 @@
   background-color: transparent;
   height: auto;
   left: 505px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -77,7 +77,7 @@
 .my-device-reminder .icon-settings-tO6I2n {
   background-color: transparent;
   height: 0.98%;
-  left: 87.70%;
+  left: 87.7%;
   mix-blend-mode: normal;
   position: absolute;
   top: 1.51%;
@@ -109,7 +109,7 @@
   background-color: transparent;
   height: auto;
   left: 35px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -143,7 +143,7 @@
   background-color: transparent;
   height: auto;
   left: 19px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -167,7 +167,7 @@
   background-color: transparent;
   height: auto;
   left: 35px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -201,7 +201,7 @@
   background-color: transparent;
   height: auto;
   left: 19px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -225,7 +225,7 @@
   background-color: transparent;
   height: auto;
   left: 35px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -259,7 +259,7 @@
   background-color: transparent;
   height: auto;
   left: 19px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -283,7 +283,7 @@
   background-color: transparent;
   height: auto;
   left: 35px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -317,7 +317,7 @@
   background-color: transparent;
   height: auto;
   left: 19px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -341,7 +341,7 @@
   background-color: transparent;
   height: auto;
   left: 35px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -375,7 +375,7 @@
   background-color: transparent;
   height: auto;
   left: 19px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -388,7 +388,7 @@
   background-color: transparent;
   height: auto;
   left: 82px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -401,7 +401,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -415,7 +415,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -428,7 +428,7 @@
   background-color: transparent;
   height: auto;
   left: 692px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -441,7 +441,7 @@
   background-color: transparent;
   height: auto;
   left: 607px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -454,7 +454,7 @@
   background-color: transparent;
   height: auto;
   left: 607px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -472,7 +472,7 @@
   font-weight: 500;
   height: auto;
   left: 607px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 17px;
   mix-blend-mode: normal;
   position: absolute;
@@ -500,7 +500,7 @@
   background-color: transparent;
   height: auto;
   left: 392px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -545,7 +545,11 @@
 }
 
 .my-device-reminder .rectangle-20-LDOKGm {
-  background: linear-gradient(180deg, rgb(244.37497973442078, 225.70744782686234, 202.62759268283844) 0%, rgb(246.0000005364418, 136.00000709295273, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgb(244.37497973442078, 225.70744782686234, 202.62759268283844) 0%,
+    rgb(246.0000005364418, 136.00000709295273, 0) 100%
+  );
   background-color: transparent;
   border: 1px none;
   border-radius: 20px;
@@ -561,7 +565,7 @@
   background-color: transparent;
   height: auto;
   left: 47px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -574,7 +578,7 @@
   background-color: transparent;
   height: auto;
   left: 47px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   mix-blend-mode: normal;
   position: absolute;
@@ -666,7 +670,7 @@
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 900;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   min-width: 118px;
   mix-blend-mode: normal;
@@ -681,7 +685,7 @@
   left: 0px;
   position: absolute;
   top: 2228px;
-  width: 1366px;
+  width: 1500px;
 }
 
 .my-device-reminder .rectangle-4-lexNAx {
@@ -711,7 +715,7 @@
   background-color: transparent;
   height: 20.43%;
   left: 12.08%;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
@@ -725,7 +729,7 @@
   color: var(--white);
   font-style: normal;
   font-weight: 400;
-  height: 19.00%;
+  height: 19%;
   left: 12.08%;
   line-height: 40px;
   mix-blend-mode: normal;
@@ -737,9 +741,9 @@
 
 .my-device-reminder .how-it-works-lexNAx {
   background-color: transparent;
-  height: 9.50%;
+  height: 9.5%;
   left: 57.25%;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -751,9 +755,9 @@
 
 .my-device-reminder .about-us-lexNAx {
   background-color: transparent;
-  height: 9.50%;
-  left: 75.70%;
-  letter-spacing: 0.00px;
+  height: 9.5%;
+  left: 75.7%;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -765,9 +769,9 @@
 
 .my-device-reminder .blog-lexNAx {
   background-color: transparent;
-  height: 9.50%;
-  left: 75.70%;
-  letter-spacing: 0.00px;
+  height: 9.5%;
+  left: 75.7%;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -779,9 +783,9 @@
 
 .my-device-reminder .privacy-lexNAx {
   background-color: transparent;
-  height: 9.50%;
-  left: 75.70%;
-  letter-spacing: 0.00px;
+  height: 9.5%;
+  left: 75.7%;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -793,9 +797,9 @@
 
 .my-device-reminder .terms-of-service-lexNAx {
   background-color: transparent;
-  height: 9.50%;
-  left: 75.70%;
-  letter-spacing: 0.00px;
+  height: 9.5%;
+  left: 75.7%;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -807,9 +811,9 @@
 
 .my-device-reminder .copyright2022-our-ap-lexNAx {
   background-color: transparent;
-  height: 9.50%;
-  left: 71.60%;
-  letter-spacing: 0.00px;
+  height: 9.5%;
+  left: 71.6%;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -821,9 +825,9 @@
 
 .my-device-reminder .templates-lexNAx {
   background-color: transparent;
-  height: 9.50%;
+  height: 9.5%;
   left: 57.25%;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -835,9 +839,9 @@
 
 .my-device-reminder .features-lexNAx {
   background-color: transparent;
-  height: 9.50%;
+  height: 9.5%;
   left: 56.73%;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -849,9 +853,9 @@
 
 .my-device-reminder .company-lexNAx {
   background-color: transparent;
-  height: 9.50%;
-  left: 75.70%;
-  letter-spacing: 0.00px;
+  height: 9.5%;
+  left: 75.7%;
+  letter-spacing: 0px;
   line-height: 40px;
   mix-blend-mode: normal;
   position: absolute;
@@ -887,14 +891,14 @@
   left: 25.48%;
   mix-blend-mode: normal;
   position: absolute;
-  top: 60.10%;
-  width: 3.00%;
+  top: 60.1%;
+  width: 3%;
 }
 
 .my-device-reminder .icon-facebook-lexNAx {
   background-color: transparent;
   height: 8.55%;
-  left: 12.30%;
+  left: 12.3%;
   mix-blend-mode: normal;
   position: absolute;
   top: 59.38%;
